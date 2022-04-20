@@ -1,3 +1,4 @@
 hello Git
 hot fix
 master text2
+hot-fix text
